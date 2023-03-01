@@ -1,0 +1,4 @@
+(0.70.0) https://autopatchcn.bhsr.com/client/0517/StarRail_202205130516_qqqUGS2V4QQ4tNYE.zip
+
+(0.64.0) https://autopatchos.starrails.com/client/0329/hkrpg_os_202204010204_w9JY9aQnKH2fXoHN.zip
+
