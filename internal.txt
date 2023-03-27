@@ -1,0 +1,5 @@
+Client ANDROID | 0.90.0 | https://rpgstorage.mihoyo.com/RPG/Data/RPGDownloads/AutoBuild/bh3rpgapk/20230131-2356-V0.90Live-3103948-CNCEregress01Android0.90.0-CnTest/Encrypt/20230131-2356-V0.90Live-3103948-CNCEregress01Android0.90.0-CnTest_encrypt.apk
+
+Client ANDROID | 0.90.55 | https://rpgstorage.mihoyo.com/RPG/Data/RPGDownloads/AutoBuild/bh3rpgapk/20230317-0029-V1.0Live-3625503-CNCEregressAndroid0.90.55-CnTest/Encrypt/20230317-0029-V1.0Live-3625503-CNCEregressAndroid0.90.55-CnTest_encrypt.apk
+
+Client ANDROID | 1.0.4 | https://rpgstorage.mihoyo.com/RPG/Data/RPGDownloads/AutoBuild/bh3rpgapk/20230204-1427-V1.0Live-3153417-CNCEregressAndroid1.0.4-CnTest/Encrypt/20230204-1427-V1.0Live-3153417-CNCEregressAndroid1.0.4-CnTest_encrypt.apk
