@@ -1,0 +1,1 @@
+**[BiliBili Launcher ](https://api-static.mihoyo.com/takumi/ptolemaios_api/api/getLatestRelease?app_id=1953445620&channel=official&app_version=2.26.0.0&key=c8f9b0b98c89f9c2680b4b2b02b96c5a46cd3347411ab037c206381897226f43)**
